@@ -1,0 +1,13 @@
+body{
+	margin: 0px auto;
+	background: #DDD;
+}
+
+.wrap{
+	max-width: 760px;
+	min-height: 400px;
+	background: #FFF;
+	margin: 0px auto;
+}
+
+.pa10{padding: 10px;}
